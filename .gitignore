@@ -1,0 +1,7 @@
+# anotaciones del curso
+CursoSPA.txt 
+
+node_modules
+dist
+
+.vscode
